@@ -1,0 +1,57 @@
+.headsection{
+     background-image:url("https://images.freeimages.com/images/large-previews/859/color-palette-1425343.jpg");
+     background-repeat: no-repeat;
+     background-size:100%;
+     width:100vw;
+     height:40vh;
+     position:static;
+}
+header{
+     display:block;
+     text-align: center;
+}
+h1, header{
+    size:50px;
+    margin-top:50px;
+    font-family: 'Princess Sofia', cursive;
+    src:url('https://fonts.googleapis.com/css2?family=Princess+Sofia&display=swap');
+    color: rgb(218, 6, 6);
+}
+h2{
+    text-align: center;
+    color: #FFFFFF;
+}
+.form{
+    display: block;
+    text-align: center;
+    color: #FFFFFF;
+}
+input[type=text]{
+    border: 2px solid #FFFFFF ;
+    background-color: #FFFFFF
+}
+}
+input[type=password]{
+    border:2px solid #796e6e ;
+    background-color: #FFFFFF
+}
+p,footer{
+    position: fixed;
+    vertical-align: middle;
+    size: 25px;
+    bottom:0;
+    font-family: 'Princess Sofia', cursive;
+    src:url('https://fonts.googleapis.com/css2?family=Princess+Sofia&display=swap');
+    color:#FFFFFF;
+}
+.secondpart{
+     background-image:url("https://images.freeimages.com/images/large-previews/08f/ribbons-1-1187102.jpg");
+     background-repeat: no-repeat;
+     background-attachment: fixed;  
+     background-size:100%;
+     min-height:100vh;
+     width:100vw;
+     margin-top:0%;
+     position:static;
+
+}
